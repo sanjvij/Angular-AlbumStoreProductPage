@@ -8,3 +8,7 @@ list-style-type: none;
 button{
     line-height: 1;
 }
+li{
+    display: block;
+    line-height: 30px;
+}
